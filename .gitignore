@@ -1,0 +1,18 @@
+# Code-only release: keep collected data and generated outputs private.
+*
+!*/
+!*.py
+!/.gitattributes
+!/.gitignore
+!/ARTIFACT_MANIFEST.json
+!/DATA_CARD.md
+!/LICENSE
+!/README.md
+!/requirements.txt
+!/chapter_code/README.md
+
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
