@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Export analysis data and de-identified SSE traces for anonymous review."""
+"""Export analysis data and de-identified SSE traces."""
 
 from __future__ import annotations
 

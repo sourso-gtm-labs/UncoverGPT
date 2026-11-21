@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fail when the anonymous artifact contains identities or private metadata."""
+"""Fail when the release contains local paths, credentials, or private metadata."""
 
 from __future__ import annotations
 

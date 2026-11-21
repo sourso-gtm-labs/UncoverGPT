@@ -2,7 +2,7 @@
 
 This directory contains paper-facing analysis and figure-generation scripts.
 Input data and generated JSON, LaTeX, and figure files are not distributed in
-this code-only branch. The commands below require the relevant private inputs.
+this repository. The commands below require the collected input data.
 
 ## Data Collection table
 

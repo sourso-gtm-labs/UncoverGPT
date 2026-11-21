@@ -1,5 +1,5 @@
 {
-  "format": "anonymous-analysis-code-only-v1",
+  "format": "uncovergpt-code-only-v1",
   "release_scope": "source-code-and-documentation-only",
   "raw_sse_included": false,
   "sanitized_sse_included": false,
@@ -11,5 +11,5 @@
   "generated_figures_included": false,
   "datasets": {},
   "results": {},
-  "data_retention": "Original research records are retained privately."
+  "data_retention": "Collected data is retained by the authors and is not distributed in this repository."
 }
